@@ -1,0 +1,2 @@
+spacy==2.3.1
+pysinonimos==0.1.1
